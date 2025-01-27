@@ -60,7 +60,9 @@
 
 ###
 
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/SamMoghadas/SamMoghadas/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -71,6 +73,3 @@
 </div>
 
 ###
-
-
-    
